@@ -21,7 +21,7 @@ Typing <kbd>?</kbd> on {% data variables.product.prodname_dotcom %} brings up a 
 {% ifversion keyboard-shortcut-accessibility-setting %}
 You can disable character key shortcuts, while still allowing shortcuts that use modifier keys, in your accessibility settings. For more information, see "[Managing accessibility settings](/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-accessibility-settings)."{% endif %}
 
-Below is a list of some of the available keyboard shortcuts.
+Bhttps://github.com/ethhub-io/ethhub.gitelow is a list of some of the available keyboard shortcuts.
 {% ifversion command-palette %}
 The {% data variables.product.prodname_command_palette %} also gives you quick access to a wide range of actions, without the need to remember keyboard shortcuts. For more information, see "[{% data variables.product.prodname_command_palette %}](/get-started/using-github/github-command-palette)."{% endif %}
 
